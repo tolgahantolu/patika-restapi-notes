@@ -1,0 +1,218 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Leeann",
+      "last_name": "Thorns",
+      "email": "lthorns0@blogger.com",
+      "gender": "Female",
+      "roleId": 3
+    },
+    {
+      "id": 2,
+      "first_name": "Allan",
+      "last_name": "Beeston",
+      "email": "abeeston1@squarespace.com",
+      "gender": "Non-binary",
+      "roleId": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Nevins",
+      "last_name": "Butterfill",
+      "email": "nbutterfill2@loc.gov",
+      "gender": "Male",
+      "roleId": 1
+    },
+    {
+      "id": 4,
+      "first_name": "Addie",
+      "last_name": "Brooksbie",
+      "email": "abrooksbie3@businessweek.com",
+      "gender": "Female",
+      "roleId": 2
+    },
+    {
+      "id": 5,
+      "first_name": "Kanya",
+      "last_name": "Farryann",
+      "email": "kfarryann4@4shared.com",
+      "gender": "Female",
+      "roleId": 3
+    },
+    {
+      "id": 6,
+      "first_name": "Gustave",
+      "last_name": "Norman",
+      "email": "gnorman5@wired.com",
+      "gender": "Male",
+      "roleId": 1
+    },
+    {
+      "id": 7,
+      "first_name": "Winna",
+      "last_name": "Huyhton",
+      "email": "whuyhton6@reference.com",
+      "gender": "Female",
+      "roleId": 1
+    },
+    {
+      "id": 8,
+      "first_name": "Christophorus",
+      "last_name": "Fearns",
+      "email": "cfearn7@usnews.com",
+      "gender": "Male",
+      "roleId": 2
+    },
+    {
+      "id": 9,
+      "first_name": "Yvor",
+      "last_name": "Sedgeworth",
+      "email": "ysedgeworth8@patch.com",
+      "gender": "Male",
+      "roleId": 2
+    },
+    {
+      "id": 10,
+      "first_name": "Hilda",
+      "last_name": "Bathersby",
+      "email": "hbathersby9@amazonaws.com",
+      "gender": "Female",
+      "roleId": 2
+    },
+    {
+      "id": 11,
+      "first_name": "Abel",
+      "last_name": "Jahnig",
+      "email": "ajahniga@ifeng.com",
+      "gender": "Male",
+      "roleId": 3
+    },
+    {
+      "id": 12,
+      "first_name": "Robyn",
+      "last_name": "Batty",
+      "email": "rbattyb@dedecms.com",
+      "gender": "Female",
+      "roleId": 1
+    },
+    {
+      "id": 13,
+      "first_name": "Alex",
+      "last_name": "Mueller",
+      "email": "amuellerc@bandcamp.com",
+      "gender": "Female",
+      "roleId": 1
+    },
+    {
+      "id": 14,
+      "first_name": "Kerry",
+      "last_name": "Berthel",
+      "email": "kbertheld@gmpg.org",
+      "gender": "Female",
+      "roleId": 2
+    },
+    {
+      "id": 15,
+      "first_name": "Wallas",
+      "last_name": "Shovlar",
+      "email": "wshovlare@blogs.com",
+      "gender": "Male",
+      "roleId": 3
+    },
+    {
+      "id": 16,
+      "first_name": "Tan",
+      "last_name": "Emanulsson",
+      "email": "temanulssonf@usgs.gov",
+      "gender": "Male",
+      "roleId": 2
+    },
+    {
+      "id": 17,
+      "first_name": "Kerr",
+      "last_name": "Spennock",
+      "email": "kspennockg@histats.com",
+      "gender": "Male",
+      "roleId": 2
+    },
+    {
+      "id": 18,
+      "first_name": "Judd",
+      "last_name": "Greeding",
+      "email": "jgreedingh@quantcast.com",
+      "gender": "Male",
+      "roleId": 1
+    },
+    {
+      "id": 19,
+      "first_name": "Loree",
+      "last_name": "Haighton",
+      "email": "lhaightoni@redcross.org",
+      "gender": "Female",
+      "roleId": 3
+    },
+    {
+      "id": 20,
+      "first_name": "Carmel",
+      "last_name": "Lorkins",
+      "email": "clorkinsj@about.me",
+      "gender": "Female",
+      "roleId": 3
+    },
+    {
+      "id": 21,
+      "first_name": "Alister",
+      "last_name": "Izod",
+      "email": "aizodk@ebay.com",
+      "gender": "Male",
+      "roleId": 1
+    },
+    {
+      "id": 22,
+      "first_name": "Thebault",
+      "last_name": "Treleaven",
+      "email": "ttreleavenl@bloomberg.com",
+      "gender": "Male",
+      "roleId": 3
+    },
+    {
+      "id": 23,
+      "first_name": "Obie",
+      "last_name": "De Dei",
+      "email": "odedeim@chicagotribune.com",
+      "gender": "Male",
+      "roleId": 1
+    },
+    {
+      "id": 24,
+      "first_name": "Gino",
+      "last_name": "Fearnyhough",
+      "email": "gfearnyhoughn@unc.edu",
+      "gender": "Male",
+      "roleId": 2
+    },
+    {
+      "id": 25,
+      "first_name": "Lenard",
+      "last_name": "Reglar",
+      "email": "lreglaro@java.com",
+      "gender": "Male",
+      "roleId": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Product Management"
+    },
+    {
+      "id": 2,
+      "name": "Software Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Operator"
+    }
+  ]
+}
